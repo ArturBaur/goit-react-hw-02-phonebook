@@ -5,7 +5,7 @@ import {
   ContactName,
   ContactNumber,
   Button,
-} from './ContactListItem.module';
+} from './ContactListItem.styled';
 
 export const ContactsListItem = ({ id, name, number, deleteContact }) => {
   return (

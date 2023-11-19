@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Label, Input } from './Filter.module';
+import { Label, Input } from './Filter.styled';
 
 export const Filter = ({ value, handleChangeFilter }) => {
   return (
